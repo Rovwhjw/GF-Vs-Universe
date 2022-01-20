@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mattangry.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="matt down note0000" x="5" y="5" width="355" height="422"/>
+	<SubTexture name="matt idle0000" x="370" y="5" width="285" height="477"/>
+	<SubTexture name="matt left note0000" x="665" y="5" width="361" height="446"/>
+	<SubTexture name="matt right note0000" x="665" y="461" width="490" height="426"/>
+	<SubTexture name="matt up note0000" x="5" y="897" width="336" height="481"/>
+</TextureAtlas>

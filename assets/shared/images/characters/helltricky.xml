@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Untitled-1.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down note0000" x="380" y="539" width="406" height="457"/>
+	<SubTexture name="Left note0000" x="0" y="553" width="377" height="508"/>
+	<SubTexture name="Right note0000" x="423" y="0" width="454" height="528"/>
+	<SubTexture name="Tricky Hell idle0000" x="0" y="0" width="418" height="516"/>
+	<SubTexture name="Up note0000" x="878" y="0" width="475" height="543"/>
+</TextureAtlas>

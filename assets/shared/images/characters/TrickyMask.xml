@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TrickyMask.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="5" y="5" width="615" height="621"/>
+	<SubTexture name="Sing Down0000" x="606" y="710" width="720" height="609"/>
+	<SubTexture name="Sing Left0000" x="630" y="5" width="758" height="695"/>
+	<SubTexture name="Sing Right0000" x="1398" y="5" width="869" height="598"/>
+	<SubTexture name="Sing Up0000" x="5" y="710" width="591" height="687"/>
+</TextureAtlas>

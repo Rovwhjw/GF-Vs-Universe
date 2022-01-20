@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF NOTE DOWN0000" x="684" y="545" width="337" height="538"/>
+	<SubTexture name="GF NOTE LEFT0000" x="0" y="537" width="370" height="556"/>
+	<SubTexture name="GF NOTE RIGHT0000" x="684" y="0" width="337" height="538" />
+	<SubTexture name="GF NOTE UP0000" x="352" y="0" width="337" height="556"/>
+	<SubTexture name="GF idle dance0000" x="0" y="0" width="353" height="538"/>
+</TextureAtlas>
