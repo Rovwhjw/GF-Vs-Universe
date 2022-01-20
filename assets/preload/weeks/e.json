@@ -1,0 +1,27 @@
+{
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"best-girl",
+			"gf",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"weekBackground": "stage",
+
+	"storyName": "before everything happens...",
+	"weekBefore": "week6",
+	"weekName": "Golden",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

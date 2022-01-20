@@ -1,0 +1,57 @@
+{
+	"storyName": "coming back to see the chill man",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"garcello",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"headache",
+			"gardead",
+			[
+				0,
+				255,
+				145
+			]
+		],
+		[
+			"nerves",
+			"gardead",
+			[
+				0,
+				255,
+				145
+			]
+		],
+		[
+			"release",
+			"gardead",
+			[
+				0,
+				255,
+				145
+			]
+		],
+		[
+			"fading",
+			"garghosty",
+			[
+				0,
+				255,
+				145
+			]
+		]
+	],
+	"weekName": "garcello week"
+}

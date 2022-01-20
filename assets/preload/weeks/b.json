@@ -1,0 +1,48 @@
+{
+	"storyName": "rapping with a demon clown belike",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Improbable-Outset",
+			"trickymask",
+			[
+				0,
+				55,
+				0
+			]
+		],
+		[
+			"Madness",
+			"tricky",
+			[
+				0,
+				55,
+				0
+			]
+		],
+		[
+			"Hellclown",
+			"helltricky",
+			[
+				20,
+				20,
+				40
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"MenuTricky",
+		"bf",
+		"gf"
+	],
+	"weekName": "Clown"
+}
